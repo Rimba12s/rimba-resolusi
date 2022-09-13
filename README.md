@@ -2,4 +2,4 @@
 repository untuk menyimpan rencana kedepannya
 - Membuat website portfolio
 - Membuat website e-commerce
-- Belajar javascript DOM
+- Membuat website responsive
